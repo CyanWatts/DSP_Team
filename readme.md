@@ -1,6 +1,34 @@
 ![2](img/10.png)
 
+# Weekly report
 
+week6
+- **Doris Wang**
+  1.Integrate code, 
+  2.update GitHub page
+
+- **Zachary CHEN**
+  1. Further communicate with other groups to confirm requirements
+  2. Revise the requirement document for multiple times.
+  3. Assist in the communication of team members, including explaining the details of division of labor and the details of algorithm.
+  
+- **Carol Liao**
+  1.complete the first version of SRS
+  2 think up some architecture of the algorithm
+  3 communicate with other group for the api
+ 
+- **Diogo Mota**
+  1. Communicated with other groups to review srs document.
+  2. Started to learn deep learning by reading/studying the book: "Deep Learning with Python" by François Chollet
+  
+- **Afonso Mota**
+  1. Communicated with team members in order to understand with more detail the approach used in the algorithm.
+  2. Reviewed and contributed to srs document.
+  
+- **Cyan Fu**
+  1. Research on algorithm
+  2. homepage maintaining
+  
 
 # Our team 
 
@@ -32,7 +60,6 @@ Our team has developers who have experience in **developing Android**, researche
 
 
 
-#### Other
 
 - **Zachary CHEN**
 <br/><img src="img/avatar/Zachary CHEN.jpg" height="300" alt="avatar1"/><br/>
@@ -92,7 +119,7 @@ Our team has developers who have experience in **developing Android**, researche
 
 ![7](img/7.png)
 
-- **Cyan Watts (Xian Fu)**
+- **Cyan Fu**
 <br/><img src="/img/avatar/Cyan Fu.jpg" height="300" alt="avatar1"/><br/>
   Emial: 295046487@qq.com
 
